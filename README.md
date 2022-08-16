@@ -1,2 +1,2 @@
 # Practicum Project - USM
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![USM Logo](https://www.usm.my/templates/yootheme/cache/usm-white-475e851a.png)

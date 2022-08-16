@@ -1,1 +1,1 @@
-# practicumproject
+# Practicum Project - USM
